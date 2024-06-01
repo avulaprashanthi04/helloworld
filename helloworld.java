@@ -1,5 +1,5 @@
 class Simple{
     public static void main(String args[]){
-        System.out.println("Hello students from DevOps batch");
+        System.out.println("Hello students from NTS batch");
     }
 }
